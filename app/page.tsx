@@ -13,9 +13,9 @@ export default function Home() {
 
   const [selectedCharacter, setSelectedCharacter] = useLocalStorage('character', null)
 
-  if (selectedCharacter) {
-    router.push(`/start`)
-  }
+ // if (selectedCharacter) {
+  //  router.push(`/start`)
+ // }
 
   const handleCharacterSelection = (characterId: any) => {
     setSelectedCharacter(characterId)
