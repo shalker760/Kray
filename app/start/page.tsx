@@ -6,6 +6,7 @@ import Inventory from '@/components/character/inventory'
 import { useRouter } from "next/navigation"
 import { Background } from "@/components/background"
 import { useLocalStorage } from "@/hooks/useLocalStorage"
+import { TypingText, Color, Shake, Blink, Bold } from '@/components/text'
 
 export default function Start() {
   const [inventory, setOpenInventory] = useState<boolean>(false)
