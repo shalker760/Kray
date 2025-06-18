@@ -36,7 +36,7 @@ export default function Start() {
 
         <div className="absolute bottom-[5%] left-[50%] translate-x-[-50%]">
           <div className="spcae-y-4">
-            <button onClick={() => router.push("/events/nachalo/1")}>встать</button>
+            <button onClick={() => router.push("/a-1")}>встать</button>
           </div>
         </div>
 
