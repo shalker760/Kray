@@ -19,10 +19,10 @@ export default function Start() {
 
   if (loading) return null
   
-  if (!character) {
-    router.push('/')
-    return null
-  }
+  //if (!character) {
+   // router.push('/')
+   // return null
+ // }
 
   return (
     <>
