@@ -31,7 +31,7 @@ export default function Start() {
 
       <div>
     
-      why?
+      333
       </div>
 
         <div className="absolute bottom-[5%] left-[50%] translate-x-[-50%]">
