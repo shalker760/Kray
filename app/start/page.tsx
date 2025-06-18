@@ -30,8 +30,9 @@ return null
       <div className="p-4 h-[100dvh]">
 
       <div>
-    
-      333
+        <TypingText duration={500}>
+     вставай путник тебя много чего ждет
+     </TypingText>
       </div>
 
         <div className="absolute bottom-[5%] left-[50%] translate-x-[-50%]">
