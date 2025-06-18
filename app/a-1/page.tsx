@@ -9,9 +9,9 @@ export default function event1() {
   return (
     <>
       <div className='py-2 text-5xl'>
-      <TypingText duration={500}>
+      <TypingText duration={1000}>
       <Color color="#198">
-        ты че бля?
+        вставай путник тебя много чего ждет
         </Color>
         </TypingText>
       </div>
