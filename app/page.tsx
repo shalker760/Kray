@@ -13,7 +13,7 @@ export default function Home() {
 
   const [selectedCharacter, setSelectedCharacter] = useLocalStorage('character', null)
 
- // if (selectedCharacter) {
+ // if (selectedCharacter) {/
   //  router.push(`/start`)
  // }
 
