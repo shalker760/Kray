@@ -28,7 +28,7 @@ return null
   return (
     <>
       <Background />
-      <div className="p-4 h-[100dvh]">
+      <div className="p-4 py-2 text-5xl">
 
       <div>
         <TypingText duration={500}>
