@@ -10,7 +10,7 @@ export default function event1() {
     <>
       <div className='py-2 text-5xl'>
       <TypingText duration={500}>
-       <br>незнакомец1:он проснулся! </br>
+       <div>незнакомец1:он проснулся!</div>
        незнакомец2:тихо ты! дай ему очнутся нормально
        
         </TypingText>
