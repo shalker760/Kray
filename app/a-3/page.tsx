@@ -14,7 +14,7 @@ export default function event1() {
         </TypingText>
       </div>
       <div className="absolute bottom-[5%] left-[50%] translate-x-[-50%] py-2 text-2xl">
-        <div onClick={() => router.push("/continue")}>ладно</div>
+        <div onClick={() => router.push("/0")}>ладно</div>
         
       </div>
     </>
