@@ -95,9 +95,9 @@ export default function Test() {
             <br />
             <Color color="#f0f">Цвееетноооой</Color>
             <br />
-            <Blink>Мерцание, хз зачем.</Blink>
+            <Blink>нагнитание</Blink>
             <br />
-            <Bold>Самое тупое наверное</Bold>
+            <Bold>выделение</Bold>
           </TypingText>
         </div>
       </div>
