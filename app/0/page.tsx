@@ -10,7 +10,7 @@ export default function event1() {
     <>
       <div className='py-2 text-5xl'>
       <TypingText duration={500}>
-        на этом пока все дальше жди
+       значит работает
         </TypingText>
       </div>
       <div className="absolute bottom-[5%] left-[50%] translate-x-[-50%] py-2 text-2xl">
